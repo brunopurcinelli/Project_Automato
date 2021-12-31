@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automatos", "Automatos\Automatos.csproj", "{00ED8C49-7339-40A3-86D8-52F05AC97F38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00ED8C49-7339-40A3-86D8-52F05AC97F38}.Debug|x86.ActiveCfg = Debug|x86
+		{00ED8C49-7339-40A3-86D8-52F05AC97F38}.Debug|x86.Build.0 = Debug|x86
+		{00ED8C49-7339-40A3-86D8-52F05AC97F38}.Release|x86.ActiveCfg = Release|x86
+		{00ED8C49-7339-40A3-86D8-52F05AC97F38}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
